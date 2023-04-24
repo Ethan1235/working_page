@@ -18,8 +18,8 @@ class StaticPagesController extends Controller
         return view('static_pages/help');
     }
 
-    public function about()
+    public function target()
     {
-        return view('static_pages/about');
+        return view('static_pages/target');
     }
 }
