@@ -43,22 +43,10 @@
     </div>
     <div class="panel-body">
         <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-default" style="width: 10%">黄帝内经10%</div>
+            <div class="progress-bar progress-bar-warning" style="width: 10%"> 素问 6/81</div>
         </div>
         <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-primary" style="width: 20%">20%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-success" style="width: 40%">40%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-info" style="width: 60%">60%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-warning" style="width: 80%">80%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-danger" style="width: 100%">100%</div>
+            <div class="progress-bar progress-bar-success" style="width: 25%">四书五经</div>
         </div>
     </div>
 </div>
@@ -75,27 +63,13 @@
     </div>
     <div class="panel-body">
         <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-default" style="width: 10%">皇帝内径10%</div>
+            <div class="progress-bar progress-bar-default" style="width: 15%">Laravel 课程 1/6%</div>
         </div>
         <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-primary" style="width: 20%">20%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-success" style="width: 40%">40%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-info" style="width: 60%">60%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-warning" style="width: 80%">80%</div>
-        </div>
-        <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-danger" style="width: 100%">100%</div>
+            <div class="progress-bar progress-bar-info" style="width: 40%">重刷一遍Docker</div>
         </div>
     </div>
 </div>
-
-
 
     <!--Global JS-->
     <script src="static/js/jquery-1.11.1.min.js"></script>
