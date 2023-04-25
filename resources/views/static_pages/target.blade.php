@@ -33,52 +33,38 @@
 <!--main content start-->
 
         
-        <div class="row">
-            <div class="col-md-12 col-lg-12">
-                <div class="panel panel-default">
 
-
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Target List</h3>
-                        <div class="reportdate actions">
-                            <i class="fa fa-calendar-o"></i>
-                            <span>Apr 23 - Apr 29</span>
-                            <b class="caret"></b>
-                        </div>
-                    </div>
-
-                    <div class="panel-body server-chart">
-                        <div class="row">
-                                <div class="progress progress-striped active">
-                                     <div class="progress-bar progress-bar-warning" style="width: 10%">黄帝内经 6/81 </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Animated Progress</h3>
+                                <div class="actions pull-right">
+                                    <i class="fa fa-expand"></i>
+                                    <i class="fa fa-chevron-down"></i>
+                                    <i class="fa fa-times"></i>
                                 </div>
-
+                            </div>
+                            <div class="panel-body">
                                 <div class="progress progress-striped active">
-                                     <div class="progress-bar progress-bar-primary" style="width: 15%">吉他 10%</div>
+                                    <div class="progress-bar progress-bar-default" style="width: 10%">皇帝内径10%</div>
                                 </div>
-
                                 <div class="progress progress-striped active">
-                                    <div class="progress-bar progress-bar-success" style="width: 20%">网站 15%</div>
+                                    <div class="progress-bar progress-bar-primary" style="width: 20%">20%</div>
                                 </div>
-
+                                <div class="progress progress-striped active">
+                                    <div class="progress-bar progress-bar-success" style="width: 40%">40%</div>
+                                </div>
                                 <div class="progress progress-striped active">
                                     <div class="progress-bar progress-bar-info" style="width: 60%">60%</div>
                                 </div>
-
                                 <div class="progress progress-striped active">
                                     <div class="progress-bar progress-bar-warning" style="width: 80%">80%</div>
                                 </div>
-
                                 <div class="progress progress-striped active">
                                     <div class="progress-bar progress-bar-danger" style="width: 100%">100%</div>
                                 </div>
+                            </div>
                         </div>
-                    </div>
 
-
-                </div>
-            </div>
-        </div>
 
     <!--Global JS-->
     <script src="static/js/jquery-1.11.1.min.js"></script>
