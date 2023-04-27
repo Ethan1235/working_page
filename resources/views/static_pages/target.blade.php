@@ -41,18 +41,17 @@
             <i class="fa fa-times"></i>
         </div>
     </div>
+
     <div class="panel-body">
         <div class="progress progress-striped active">
-            <div class="progress-bar progress-bar-warning" style="width: 10%"> 素问 6/81</div>
+            <div class="progress-bar progress-bar-warning" style="width: 15%"> 素问 9/81</div>
         </div>
         <div class="progress progress-striped active">
             <div class="progress-bar progress-bar-success" style="width: 25%">四书五经</div>
         </div>
     </div>
-</div>
 
 
-<div class="panel panel-default">
     <div class="panel-heading">
         <h3 class="panel-title">康之源自研系统</h3>
         <div class="actions pull-right">
@@ -61,7 +60,7 @@
             <i class="fa fa-times"></i>
         </div>
     </div>
-    <div class="panel-body">
+        <div class="panel-body">
         <div class="progress progress-striped active">
             <div class="progress-bar progress-bar-default" style="width: 15%">Laravel 课程 1/6%</div>
         </div>
@@ -70,6 +69,7 @@
         </div>
     </div>
 </div>
+
 
 
 <div class="panel panel-default">
@@ -85,15 +85,21 @@
         <div class="alert alert-success alert-dismissable">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
             <strong>夜卧早起！</strong>使志生而勿杀，春气之应，养生之道，逆之则伤肝。</div>
+
+
         <div class="alert alert-info alert-dismissable">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-            <strong>Heads up!</strong>11点就该准备睡觉了。</div>
+            <strong>Heads up!</strong>  7点半就该起床了。</div>
+
+
         <div class="alert alert-warning alert-dismissable">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-            <strong>Warning!</strong>7点半就该起床了。</div>
-        <div class="alert alert-danger alert-dismissable">
+            <strong>Warning!</strong>  11点就该准备睡觉了。</div>
+
+
+<!--         <div class="alert alert-danger alert-dismissable">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-            <strong>Oh snap!</strong>Change a few things up and try submitting again.</div>
+            <strong>Oh snap!</strong>Change a few things up and try submitting again.</div> -->
     </div>
 </div>
 
